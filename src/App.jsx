@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import Footer from "./components/Shared/Footer";
 import "./styles/App.css";
-import image from "./assets/my-photo.png"
+import image from "./assets/me.png"
 import post_icon from "./assets/post_icon.png"
 
 ReactDOM.createRoot(document.getElementById("root")).render(
